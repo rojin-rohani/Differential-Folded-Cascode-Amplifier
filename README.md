@@ -1,4 +1,4 @@
-#Differential Folded Cascode Amplifier
+# Differential Folded Cascode Amplifier
 
 An LTspice implementation of an amplifier designed for a Sharif University project.
 
